@@ -49,6 +49,12 @@
   <a href="https://github.com/kiuyha">
     <img src="https://img.shields.io/badge/Follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://kiuyha.my.id">
+    <img src="https://img.shields.io/badge/Portofolio-%23181818.svg?style=for-the-badge&logo=globe&logoColor=white" alt="Ketut Shridhara Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ketut-shridhara-46bb792a5">
+    <img src="https://img.shields.io/badge/Linkedin-%23181818.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ketut Shridhara Badge"/>
+  </a>
   <!-- Add your other social media profiles -->
 </div>
 
