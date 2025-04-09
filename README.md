@@ -10,37 +10,17 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Tech Universe
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel" />
-      <br/>Laravel
-    </td>
-    <td align="center" width="140">
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" />
-      <br/>Tailwind CSS
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-      <br/>JavaScript
-    </td>
-    <td align="center" width="140">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" />
-      <br/>Python
-    </td>
-    <td align="center" width="140">
-      <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="45" height="45" alt="Flutter" />
-      <br/>Flutter
-    </td>
-  </tr>
-</table>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Profile Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiuyha&layout=compact&theme=tokyonight" width="50%" alt="top-langs" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiuyha&show_icons=true&theme=radical" width="50% alt="Activity Graph">
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Professional Focus
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiuyha&theme=react-dark&hide_border=true&area=true&hide_title=true" width="90%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiuyha&theme=react-dark&hide_border=true&area=true&hide_title=true" width="90%" alt="Activity Graph">  
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me~
@@ -63,10 +43,6 @@
 </div>
 
 <div align="center">
+  <p>Total profile being view:</p>
   <img src="https://profile-counter.glitch.me/kiuyha/count.svg" alt="Visitor Count"/>
-</div>
-
-<div align="center">
-  <p><strong>Thanks for visiting !</strong> Here's a random programming joke to make your day:</p>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
