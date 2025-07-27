@@ -12,9 +12,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> My Profile Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiuyha&layout=compact&theme=tokyonight&langs_count=8" width="50%" alt="top-langs" />
+  <img src="https://github-readme-stats-beta-teal-49.vercel.app/api/top-langs/?username=kiuyha&layout=compact&theme=tokyonight&langs_count=10" width="50%" alt="top-langs" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=kiuyha&show_icons=true&theme=radical" width="50% alt="Activity Graph">
+  <img src="https://github-readme-stats-beta-teal-49.vercel.app/api?username=kiuyha&show_icons=true&theme=radical" width="50% alt="Activity Graph">
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Professional Focus
